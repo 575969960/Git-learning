@@ -1,2 +1,2 @@
 # Git-learning
-learn how to use gthub
+learn how to use github
